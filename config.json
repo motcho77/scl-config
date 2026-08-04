@@ -2,8 +2,8 @@
   "isBotEnabled": true,
   "announcement": "مرحباً بكم جميعاً!",
   "allowedUsers": [
-    "user123",
-    "streamer_x",
+    "motcho",
+    "290170",
     "admin_account"
   ]
 }
