@@ -1,4 +1,9 @@
 {
   "isBotEnabled": true,
-  "announcement": "مرحباً بكم جميعاً في البث!"
+  "announcement": "مرحباً بكم جميعاً!",
+  "allowedUsers": [
+    "user123",
+    "streamer_x",
+    "admin_account"
+  ]
 }
