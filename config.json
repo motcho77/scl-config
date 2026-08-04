@@ -1,7 +1,7 @@
 {
   "isBotEnabled": true,
   "announcement": "مرحباً بكم جميعاً!",
-  "allowedUsers": [motcho]
+  "allowedUsers": [
     "motcho",
     "290170",
     "admin_account"
